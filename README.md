@@ -17,4 +17,8 @@ Simply run the project in your Java IDE.
 
 To generate report run command 'gradle clean test' in your project directory.
 
+## Simulation video
+
+[https://youtu.be/zL4YNAsQnGE](https://youtu.be/zL4YNAsQnGE)
+
 ## Report Screenshot
